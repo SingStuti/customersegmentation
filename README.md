@@ -3,7 +3,7 @@ Cohort analysis is a subset of behavioral analytics that takes the data from a g
 ## What is RFM Analysis?
 
 RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. These RFM metrics are important indicators of a customer’s behavior because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
-![image](./Screenshot 2020-03-02 at 15.07.48.png)
+![Image](Screenshot 2020-03-02 at 15.07.48.png)
 
 Smart marketers understand the importance of “know thy customer.” Instead of simply focusing on generating more clicks, marketers must follow the paradigm shift from increased CTRs (Click-Through Rates) to retention, loyalty, and building customer relationships.
 ### RFM factors illustrate these facts:
@@ -13,8 +13,9 @@ Smart marketers understand the importance of “know thy customer.” Instead of
 3. Monetary value differentiates heavy spenders from low-value purchasers
 
 #### Contents
-1.Import Libraries and Read Dataset
-2.Exploratory Data Analysis
-3.Cohort Analysis with Python
+
+1. Import Libraries and Read Dataset
+2. Exploratory Data Analysis
+3. Cohort Analysis with Python
 4. RFM Analysis for Customer Segmentation with Python
 5. K-Means Clustering
