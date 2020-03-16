@@ -10,10 +10,11 @@ To find out why your users stop using your app, you have to answer the three W's
 1. Who is engaging with your app—and who isn’t?
 2. When do they churn?
 3. Why do they lose interest?
-You can only do this by segmenting your users into groups—or cohorts—based on a particular trait. The 2 most common cohort types are:
+You can only do this by segmenting your users into groups—or cohorts—based on a particular trait. 
+The 2 most common cohort types are:
 
-Acquisition cohorts: Groups divided based on when they signed up for your product
-Behavioral cohorts: Groups divided based on their behaviors and actions in your product
+1. Acquisition cohorts: Groups divided based on when they signed up for your product
+2. Behavioral cohorts: Groups divided based on their behaviors and actions in your product
 Acquisition cohorts help you determine the who and the when, while behavioral cohorts enable you to dive into the why.
 
 Retention hacking is the new growth hacking—it doesn't matter how many customers your startup acquires if none of them stick around.
