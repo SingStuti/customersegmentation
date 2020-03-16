@@ -7,9 +7,9 @@ Cohort analysis is a type of behavioral analytics in which you group your users 
 
 To find out why your users stop using your app, you have to answer the three W's of user retention:
 
-Who is engaging with your app—and who isn’t?
-When do they churn?
-Why do they lose interest?
+1. Who is engaging with your app—and who isn’t?
+2. When do they churn?
+3. Why do they lose interest?
 You can only do this by segmenting your users into groups—or cohorts—based on a particular trait. The 2 most common cohort types are:
 
 Acquisition cohorts: Groups divided based on when they signed up for your product
