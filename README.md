@@ -1,5 +1,21 @@
 # Customer Segmentation
-Cohort analysis is a subset of behavioral analytics that takes the data from a given data set and rather than looking at all users as one unit, it breaks them into related groups for analysis. These related groups, or cohorts, usually share common characteristics or experiences within a defined time-span. Cohort analysis allows a company to “see patterns clearly across the life-cycle of a customer (or user), rather than slicing across all customers blindly without accounting for the natural cycle that a customer undergoes.” By seeing these patterns of time, a company can adapt and tailor its service to those specific cohorts.
+### What is cohort analysis?
+
+A cohort is simply a group of people with shared characteristics.
+
+Cohort analysis is a type of behavioral analytics in which you group your users based on their shared traits to better track and understand their actions. Cohort analysis allows you to ask more specific, targeted questions and make informed product decisions that will reduce churn and drastically increase revenue. You could also call it customer churn analysis.
+
+To find out why your users stop using your app, you have to answer the three W's of user retention:
+
+Who is engaging with your app—and who isn’t?
+When do they churn?
+Why do they lose interest?
+You can only do this by segmenting your users into groups—or cohorts—based on a particular trait. The 2 most common cohort types are:
+
+Acquisition cohorts: Groups divided based on when they signed up for your product
+Behavioral cohorts: Groups divided based on their behaviors and actions in your product
+Acquisition cohorts help you determine the who and the when, while behavioral cohorts enable you to dive into the why.
+
 Retention hacking is the new growth hacking—it doesn't matter how many customers your startup acquires if none of them stick around.
 ## What is RFM Analysis?
 
